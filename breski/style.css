@@ -7384,11 +7384,6 @@ a.text-dark:hover, a.text-dark:focus {
 .intropic img {
   border-radius: 6px; }
 
-.directionscont {
-  display: flex;
-  align-content: right;
-  justify-content: right; }
-
 .laura img {
   max-width: 400px;
   border-radius: 6px; }
