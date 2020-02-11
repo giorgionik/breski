@@ -7309,7 +7309,8 @@ a.text-dark:hover, a.text-dark:focus {
 .containerbre {
   background-color: #1b262c;
   margin: 0;
-  padding: 0; }
+  padding: 0;
+  border-bottom: 4px solid #3282b8; }
   .containerbre .contatto {
     padding-left: 20px;
     padding-bottom: 0px;
