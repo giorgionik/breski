@@ -7384,6 +7384,9 @@ a.text-dark:hover, a.text-dark:focus {
 .intropic img {
   border-radius: 6px; }
 
+.gmaps {
+  float: right; }
+
 .laura img {
   max-width: 400px;
   border-radius: 6px; }
