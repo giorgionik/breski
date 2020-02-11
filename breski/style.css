@@ -7325,7 +7325,6 @@ a.text-dark:hover, a.text-dark:focus {
 .containerbre h1 {
   color: #ffffff;
   font-family: 'Playfair Display', serif;
-  text-shadow: 1px 1px 2px white;
   font-size: calc(40px + 20 * ((100vw - 320px) / 960));
   /* font-size: calc([minimum size] + ([maximum size] - [minimum size]) * ((100vw - [minimum viewport width]) / ([maximum viewport width] - [minimum viewport width])));*/ }
 

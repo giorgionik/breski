@@ -70,7 +70,7 @@
 .containerbre h1 {
     color: #ffffff;
     font-family: 'Playfair Display', serif;
-    text-shadow: 1px 1px 2px rgba(255, 255, 255, 1);
+    
     font-size: calc(40px + 20 * ((100vw - 320px) / 960));
     /* font-size: calc([minimum size] + ([maximum size] - [minimum size]) * ((100vw - [minimum viewport width]) / ([maximum viewport width] - [minimum viewport width])));*/
 
