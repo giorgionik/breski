@@ -7269,6 +7269,9 @@ a.text-dark:hover, a.text-dark:focus {
 .rovinj {
   display: none; }
 
+.row {
+  margin-bottom: 0px; }
+
 .image-holder {
   position: relative;
   overflow: hidden;
