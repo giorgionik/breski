@@ -7385,7 +7385,8 @@ a.text-dark:hover, a.text-dark:focus {
   border-radius: 6px; }
 
 .directions {
-  float: right; }
+  float: right;
+  padding-top: 5px; }
 
 .laura img {
   max-width: 400px;
