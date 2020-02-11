@@ -7311,16 +7311,18 @@ a.text-dark:hover, a.text-dark:focus {
   margin: 0;
   padding: 0;
   border-bottom: 5px solid #3282b8; }
-  .containerbre .subcontainer {
-    margin: 0px;
-    padding: 0px;
-    width: 100%;
-    height: 30px;
-    border-bottom: 5px solid #bbe1fa; }
-  .containerbre .contatto {
-    padding-left: 20px;
-    padding-bottom: 0px;
-    border-left: 2px solid #fff; }
+
+.subcontainer {
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+  height: 30px;
+  border-bottom: 5px solid #bbe1fa; }
+
+.contatto {
+  padding-left: 20px;
+  padding-bottom: 0px;
+  border-left: 2px solid #fff; }
 
 .headerbre {
   margin: 0px auto;
