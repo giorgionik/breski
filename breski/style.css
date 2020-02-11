@@ -7291,7 +7291,7 @@ a.text-dark:hover, a.text-dark:focus {
   top: 40px; }
 
 .image-holder:after {
-  box-shadow: 0 0 0 1000px #d1edff;
+  box-shadow: 0 0 0 1000px #1b262c;
   transform: rotate(-38deg);
   border-radius: 80px;
   position: absolute;
@@ -7307,7 +7307,7 @@ a.text-dark:hover, a.text-dark:focus {
   max-width: 100%; }
 
 .containerbre {
-  background-color: #d1edff;
+  background-color: #1b262c;
   margin: 0;
   padding: 0; }
   .containerbre .contatto {
