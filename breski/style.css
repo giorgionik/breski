@@ -7385,8 +7385,7 @@ a.text-dark:hover, a.text-dark:focus {
   border-radius: 6px; }
 
 .directionscont {
-  display: grid;
-  align-items: center; }
+  float: right; }
 
 .laura img {
   max-width: 400px;
