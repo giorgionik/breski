@@ -1,0 +1,64 @@
+
+.row {
+    margin-bottom: 20px;
+}
+.spacey {
+    height: 20px;
+}
+.mainbody {
+    margin: 0px auto;
+    max-width: 840px;
+    
+}
+
+.bodypadding {
+    padding: 0px 15px;
+}
+
+.mainbody svg {
+    width: 30px;
+    height: 30px;
+    padding-right: 10px;
+    fill: #0f4c75;
+}
+
+.mainbody h2, p {
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #1b262c;
+}
+
+.intropic img {
+    border-radius: 6px;
+}
+
+.directionscont {
+    display: grid;
+    align-items: center;
+
+}
+
+.laura img {
+    max-width: 400px;
+    border-radius: 6px;
+}
+
+.card p {
+    margin: 0px;
+    padding: 2px 0px;
+}
+
+@media screen and (min-width:575px) {
+    .rovinj {
+        display: unset;
+       
+    }
+   .spacey {
+       height: 0px;
+   }
+   .headerpadding {
+      padding: 0px;
+   }
+   .bodypadding {
+       padding: 0px;
+   }
+}

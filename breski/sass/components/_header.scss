@@ -1,0 +1,99 @@
+.rovinj {
+    display: none;
+}
+
+.image-holder {
+    position: relative;
+    overflow: hidden;
+    height: auto;
+    max-width: 400px;
+    margin: 20px 20px 20px 20px;
+   
+  }
+  .image-holder:before {
+    box-shadow: 0 0 0 1000px #3282b8;
+    transform: rotate(-35deg);
+    border-radius: 80px;
+    position: absolute;
+    content: '';
+    bottom: 40px;
+    right: 40px;
+    left: 40px;
+    top: 40px;
+  }
+  .image-holder:after {
+    box-shadow: 0 0 0 1000px $headercolor;
+    transform: rotate(-38deg);
+    border-radius: 80px;
+    position: absolute;
+    content: '';
+    bottom: 35px;
+    right: 43px;
+    left: 35px;
+    top: 49px;
+  }
+
+ 
+  
+  .image-holder img {
+    display: block;
+    height: auto;
+    max-width: 100%;
+  }
+
+  .containerbre {
+      background-color: $headercolor;
+      margin: 0;
+      padding: 0;
+      margin-bottom: 40px;
+
+.contatto {
+    padding-left: 20px;
+    padding-bottom: 0px;
+    border-left: 4px dashed #0f4c75;
+}
+
+      
+  }
+
+  .headerbre {
+      margin: 0px auto;
+      max-width: 840px;
+  }
+
+  .headerpadding {
+      padding: 0px 15px;
+  }
+.containerbre h1 {
+    color: #1b262c;
+    font-family: 'Playfair Display', serif;
+    text-shadow: 1px 1px 2px rgba(255, 255, 255, 1);
+    font-size: calc(40px + 20 * ((100vw - 320px) / 960));
+    /* font-size: calc([minimum size] + ([maximum size] - [minimum size]) * ((100vw - [minimum viewport width]) / ([maximum viewport width] - [minimum viewport width])));*/
+
+}
+
+.containerbre h4 {
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #1b262c;
+}
+.containerbre p {
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #1b262c;
+}
+
+.containerbre svg {
+    width: 25px;
+    height: 25px;
+    fill: #0f4c75;
+}
+.containerbre span {
+    padding-right: 15px;
+}
+@media screen and (min-width:1280px) {
+    .containerbre h1 {
+        font-size: 60px;
+       
+    }
+   
+}
