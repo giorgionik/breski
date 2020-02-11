@@ -42,7 +42,9 @@ padding: 25px 0px;
 }
 
 .directionscont {
-    float: right;
+    display: flex;
+  align-items: center;
+  justify-content: right;
 
 }
 
