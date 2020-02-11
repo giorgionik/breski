@@ -7386,7 +7386,7 @@ a.text-dark:hover, a.text-dark:focus {
 
 .directionscont {
   display: flex;
-  align-items: right;
+  align-content: right;
   justify-content: right; }
 
 .laura img {
