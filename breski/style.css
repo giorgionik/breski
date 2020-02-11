@@ -7315,6 +7315,7 @@ a.text-dark:hover, a.text-dark:focus {
     margin: 0px;
     padding: 0px;
     width: 100%;
+    height: 30px;
     border-top: 5px solid #bbe1fa; }
   .containerbre .contatto {
     padding-left: 20px;
